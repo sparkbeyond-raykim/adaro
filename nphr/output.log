@@ -1,0 +1,145 @@
+2023-03-29 07:19:12,255 - sparkbeyond.predictionserver.api.client - INFO - Connection with https://192.168.106.199/ - Established
+2023-03-29 07:19:58,520 - sparkbeyond.predictionserver.api.client - INFO - Connection with https://192.168.106.199/ - Established
+2023-03-29 07:21:33,389 - sparkbeyond.predictionserver.api.client - INFO - Connection with https://192.168.106.199/ - Established
+2023-03-29 07:21:50,852 - sparkbeyond.predictionserver.api.errors - ERROR - Model: NPHR_Unit1_03272023_rev_1_bucket_LB1_5_6.25 not found
+2023-03-29 07:21:50,852 - sparkbeyond.predictionserver.api.client - INFO - Group NPHR_Unit1_03272023_rev_1_bucket_LB1_5_6.25 is not on server, uploading...
+2023-03-29 07:23:40,180 - sparkbeyond.predictionserver.api.client - INFO - Group NPHR_Unit1_03272023_rev_1_bucket_LB1_5_6.25 uploaded successfully
+2023-03-29 07:23:40,261 - sparkbeyond.predictionserver.api.errors - ERROR - Model: NPHR_Unit1_03272023_rev_2_bucket_LB2_6.25_7.5 not found
+2023-03-29 07:23:40,261 - sparkbeyond.predictionserver.api.errors - ERROR - Model: NPHR_Unit1_03272023_rev_2_bucket_LB2_6.25_7.5 not found
+2023-03-29 07:23:40,262 - sparkbeyond.predictionserver.api.client - INFO - Group NPHR_Unit1_03272023_rev_2_bucket_LB2_6.25_7.5 is not on server, uploading...
+2023-03-29 07:25:45,392 - sparkbeyond.predictionserver.api.client - INFO - Group NPHR_Unit1_03272023_rev_2_bucket_LB2_6.25_7.5 uploaded successfully
+2023-03-29 07:25:45,500 - sparkbeyond.predictionserver.api.errors - ERROR - Model: NPHR_Unit1_03272023_rev_3_bucket_LB3_7.5_8.75 not found
+2023-03-29 07:25:45,500 - sparkbeyond.predictionserver.api.errors - ERROR - Model: NPHR_Unit1_03272023_rev_3_bucket_LB3_7.5_8.75 not found
+2023-03-29 07:25:45,500 - sparkbeyond.predictionserver.api.errors - ERROR - Model: NPHR_Unit1_03272023_rev_3_bucket_LB3_7.5_8.75 not found
+2023-03-29 07:25:45,501 - sparkbeyond.predictionserver.api.client - INFO - Group NPHR_Unit1_03272023_rev_3_bucket_LB3_7.5_8.75 is not on server, uploading...
+2023-03-29 07:27:31,069 - sparkbeyond.predictionserver.api.client - INFO - Group NPHR_Unit1_03272023_rev_3_bucket_LB3_7.5_8.75 uploaded successfully
+2023-03-29 07:27:31,167 - sparkbeyond.predictionserver.api.errors - ERROR - Model: NPHR_Unit1_03272023_rev_4_bucket_LB4_8.75_10 not found
+2023-03-29 07:27:31,167 - sparkbeyond.predictionserver.api.errors - ERROR - Model: NPHR_Unit1_03272023_rev_4_bucket_LB4_8.75_10 not found
+2023-03-29 07:27:31,167 - sparkbeyond.predictionserver.api.errors - ERROR - Model: NPHR_Unit1_03272023_rev_4_bucket_LB4_8.75_10 not found
+2023-03-29 07:27:31,167 - sparkbeyond.predictionserver.api.errors - ERROR - Model: NPHR_Unit1_03272023_rev_4_bucket_LB4_8.75_10 not found
+2023-03-29 07:27:31,167 - sparkbeyond.predictionserver.api.client - INFO - Group NPHR_Unit1_03272023_rev_4_bucket_LB4_8.75_10 is not on server, uploading...
+2023-03-29 07:29:08,170 - sparkbeyond.predictionserver.api.client - INFO - Group NPHR_Unit1_03272023_rev_4_bucket_LB4_8.75_10 uploaded successfully
+2023-03-29 07:29:08,268 - sparkbeyond.predictionserver.api.errors - ERROR - Model: NPHR_Unit1_03272023_rev_5_bucket_LB5_10_12.5 not found
+2023-03-29 07:29:08,268 - sparkbeyond.predictionserver.api.errors - ERROR - Model: NPHR_Unit1_03272023_rev_5_bucket_LB5_10_12.5 not found
+2023-03-29 07:29:08,268 - sparkbeyond.predictionserver.api.errors - ERROR - Model: NPHR_Unit1_03272023_rev_5_bucket_LB5_10_12.5 not found
+2023-03-29 07:29:08,268 - sparkbeyond.predictionserver.api.errors - ERROR - Model: NPHR_Unit1_03272023_rev_5_bucket_LB5_10_12.5 not found
+2023-03-29 07:29:08,268 - sparkbeyond.predictionserver.api.errors - ERROR - Model: NPHR_Unit1_03272023_rev_5_bucket_LB5_10_12.5 not found
+2023-03-29 07:29:08,268 - sparkbeyond.predictionserver.api.client - INFO - Group NPHR_Unit1_03272023_rev_5_bucket_LB5_10_12.5 is not on server, uploading...
+2023-03-29 07:31:36,979 - sparkbeyond.predictionserver.api.client - INFO - Group NPHR_Unit1_03272023_rev_5_bucket_LB5_10_12.5 uploaded successfully
+2023-03-29 07:31:37,091 - sparkbeyond.predictionserver.api.errors - ERROR - Model: NPHR_Unit1_03272023_rev_6_bucket_LB6_12.5_15 not found
+2023-03-29 07:31:37,091 - sparkbeyond.predictionserver.api.errors - ERROR - Model: NPHR_Unit1_03272023_rev_6_bucket_LB6_12.5_15 not found
+2023-03-29 07:31:37,091 - sparkbeyond.predictionserver.api.errors - ERROR - Model: NPHR_Unit1_03272023_rev_6_bucket_LB6_12.5_15 not found
+2023-03-29 07:31:37,091 - sparkbeyond.predictionserver.api.errors - ERROR - Model: NPHR_Unit1_03272023_rev_6_bucket_LB6_12.5_15 not found
+2023-03-29 07:31:37,091 - sparkbeyond.predictionserver.api.errors - ERROR - Model: NPHR_Unit1_03272023_rev_6_bucket_LB6_12.5_15 not found
+2023-03-29 07:31:37,091 - sparkbeyond.predictionserver.api.errors - ERROR - Model: NPHR_Unit1_03272023_rev_6_bucket_LB6_12.5_15 not found
+2023-03-29 07:31:37,091 - sparkbeyond.predictionserver.api.client - INFO - Group NPHR_Unit1_03272023_rev_6_bucket_LB6_12.5_15 is not on server, uploading...
+2023-03-29 07:33:10,326 - sparkbeyond.predictionserver.api.client - INFO - Group NPHR_Unit1_03272023_rev_6_bucket_LB6_12.5_15 uploaded successfully
+2023-03-29 07:35:11,694 - sparkbeyond.predictionserver.api.client - INFO - Connection with https://192.168.106.199/ - Established
+2023-03-29 07:35:25,729 - sparkbeyond.predictionserver.api.client - INFO - Connection with https://192.168.106.199/ - Established
+2023-03-29 07:35:25,729 - sparkbeyond.predictionserver.api.client - INFO - Connection with https://192.168.106.199/ - Established
+2023-03-29 07:38:48,956 - sparkbeyond.predictionserver.api.client - INFO - Sending Predict to https://192.168.106.199/
+2023-03-29 07:38:48,956 - sparkbeyond.predictionserver.api.client - INFO - Sending Predict to https://192.168.106.199/
+2023-03-29 07:38:48,957 - sparkbeyond.predictionserver.api.client - INFO - https://192.168.106.199/predbox/groups/predict?qualityReportEnabled=true&contextMatchingReport=true
+2023-03-29 07:38:48,957 - sparkbeyond.predictionserver.api.client - INFO - https://192.168.106.199/predbox/groups/predict?qualityReportEnabled=true&contextMatchingReport=true
+2023-03-29 07:41:38,503 - sparkbeyond.predictionserver.api.client - ERROR - 
+HTTP 400 Bad Request
+Input validation exception: 
+following input data headers are redundant: expected_nphr, unusual_operating_condition, distance_to_expected_nphr, NET_HEATRATE.CA, unit
+consider using strictInputValidation=false parameter to disable this validation
+2023-03-29 07:41:38,503 - sparkbeyond.predictionserver.api.client - ERROR - 
+HTTP 400 Bad Request
+Input validation exception: 
+following input data headers are redundant: expected_nphr, unusual_operating_condition, distance_to_expected_nphr, NET_HEATRATE.CA, unit
+consider using strictInputValidation=false parameter to disable this validation
+2023-03-29 08:41:26,673 - sparkbeyond.predictionserver.api.client - INFO - Sending Predict to https://192.168.106.199/
+2023-03-29 08:41:26,673 - sparkbeyond.predictionserver.api.client - INFO - Sending Predict to https://192.168.106.199/
+2023-03-29 08:41:26,674 - sparkbeyond.predictionserver.api.client - INFO - https://192.168.106.199/predbox/groups/predict?qualityReportEnabled=true&contextMatchingReport=true
+2023-03-29 08:41:26,674 - sparkbeyond.predictionserver.api.client - INFO - https://192.168.106.199/predbox/groups/predict?qualityReportEnabled=true&contextMatchingReport=true
+2023-03-29 08:42:45,838 - sparkbeyond.predictionserver.api.client - ERROR - 
+HTTP 400 Bad Request
+Input validation exception: 
+following input data headers are redundant: expected_nphr, unusual_operating_condition, distance_to_expected_nphr, NET_HEATRATE.CA, unit
+consider using strictInputValidation=false parameter to disable this validation
+2023-03-29 08:42:45,838 - sparkbeyond.predictionserver.api.client - ERROR - 
+HTTP 400 Bad Request
+Input validation exception: 
+following input data headers are redundant: expected_nphr, unusual_operating_condition, distance_to_expected_nphr, NET_HEATRATE.CA, unit
+consider using strictInputValidation=false parameter to disable this validation
+2023-03-29 08:52:29,007 - sparkbeyond.predictionserver.api.client - INFO - Sending Predict to https://192.168.106.199/
+2023-03-29 08:52:29,007 - sparkbeyond.predictionserver.api.client - INFO - Sending Predict to https://192.168.106.199/
+2023-03-29 08:52:29,008 - sparkbeyond.predictionserver.api.client - INFO - https://192.168.106.199/predbox/groups/predict?strictInputValidation=false&qualityReportEnabled=true&contextMatchingReport=true
+2023-03-29 08:52:29,008 - sparkbeyond.predictionserver.api.client - INFO - https://192.168.106.199/predbox/groups/predict?strictInputValidation=false&qualityReportEnabled=true&contextMatchingReport=true
+2023-03-29 08:54:08,422 - sparkbeyond.predictionserver.api.client - ERROR - 
+HTTP 400 Bad Request
+Failed to match inputs: Some supplied context inputs could not be matched to any expected input: Set(Unnamed input with headers datetime, PCS01_APP1.GAI10HAC90CT001_INLET FEED WATER TEMP_C, PCS01_APP1.GAI10HBK01CT021_BACKPASS TEMP AFTER INT SH_C, PCS01_APP1.GAI10HBK01CT031_BACKPASS TEMP AFTER LT SH_C, PCS01_APP1.GAI10HBK01CT042_BACKPASS TEMP AFTER ECO_C, PCS01_APP1.GAI10HNA41CT001_ESP INLET TEMP_C, PCS01_APP1.GAI10LAE20CF001_DESH-1 SPRAY WATER FLOW_mmH2O, PCS01_APP1.GAI10LAE30CF001_DESH-2 SPRAY WATER FLOW_mmH2O, PCS03_APP1.GAI10HBK01CP001_INLET BACKPASS PRESSURE_mbar, PCS03_APP1.GAI10HBK01CP002_INLET BACKPASS PRESSURE_mbar, PCS03_APP1.GAI10HBK01CP003_INLET BACKPASS PRESSURE_mbar, PCS03_APP1.GAI10LBA10CP001_MAIN STEAM PRESSURE_barg, PCS03_APP1.GAI10LBA10CP002_MAIN STEAM PRESSURE_barg, PCS03_APP1.GAI10LBA10CP003_MAIN STEAM PRESSURE_barg, PCS03_APP1.GAI10LBA10CT001_TEMPRATURE AFTER FINAL SH_C, PCS03_APP1.GAI10LBA10CT002_TEMPRATURE AFTER FINAL SH_C, PCS03_APP1.GAI10LBA10CT003_TEMPRATURE AFTER FINAL SH_C, PCS05_APP1.C_HLA15CF901.OUT_PRIMARY AIR FLOW CURRENT_ton/hr, PCS05_APP1.C_HLA25CF901.OUT_SECONDARY AIR FLOW CURRENT_ton/hr, PCS05_APP1.C_TOTALAIRFLOW.OUT_TOTAL AIR FLOW CURRENT_ton/hr)
+2023-03-29 08:54:08,422 - sparkbeyond.predictionserver.api.client - ERROR - 
+HTTP 400 Bad Request
+Failed to match inputs: Some supplied context inputs could not be matched to any expected input: Set(Unnamed input with headers datetime, PCS01_APP1.GAI10HAC90CT001_INLET FEED WATER TEMP_C, PCS01_APP1.GAI10HBK01CT021_BACKPASS TEMP AFTER INT SH_C, PCS01_APP1.GAI10HBK01CT031_BACKPASS TEMP AFTER LT SH_C, PCS01_APP1.GAI10HBK01CT042_BACKPASS TEMP AFTER ECO_C, PCS01_APP1.GAI10HNA41CT001_ESP INLET TEMP_C, PCS01_APP1.GAI10LAE20CF001_DESH-1 SPRAY WATER FLOW_mmH2O, PCS01_APP1.GAI10LAE30CF001_DESH-2 SPRAY WATER FLOW_mmH2O, PCS03_APP1.GAI10HBK01CP001_INLET BACKPASS PRESSURE_mbar, PCS03_APP1.GAI10HBK01CP002_INLET BACKPASS PRESSURE_mbar, PCS03_APP1.GAI10HBK01CP003_INLET BACKPASS PRESSURE_mbar, PCS03_APP1.GAI10LBA10CP001_MAIN STEAM PRESSURE_barg, PCS03_APP1.GAI10LBA10CP002_MAIN STEAM PRESSURE_barg, PCS03_APP1.GAI10LBA10CP003_MAIN STEAM PRESSURE_barg, PCS03_APP1.GAI10LBA10CT001_TEMPRATURE AFTER FINAL SH_C, PCS03_APP1.GAI10LBA10CT002_TEMPRATURE AFTER FINAL SH_C, PCS03_APP1.GAI10LBA10CT003_TEMPRATURE AFTER FINAL SH_C, PCS05_APP1.C_HLA15CF901.OUT_PRIMARY AIR FLOW CURRENT_ton/hr, PCS05_APP1.C_HLA25CF901.OUT_SECONDARY AIR FLOW CURRENT_ton/hr, PCS05_APP1.C_TOTALAIRFLOW.OUT_TOTAL AIR FLOW CURRENT_ton/hr)
+2023-03-29 08:55:05,516 - sparkbeyond.predictionserver.api.client - INFO - Sending Predict to https://192.168.106.199/
+2023-03-29 08:55:05,516 - sparkbeyond.predictionserver.api.client - INFO - Sending Predict to https://192.168.106.199/
+2023-03-29 08:55:05,517 - sparkbeyond.predictionserver.api.client - INFO - https://192.168.106.199/predbox/groups/predict?strictInputValidation=false&qualityReportEnabled=true&contextMatchingReport=true
+2023-03-29 08:55:05,517 - sparkbeyond.predictionserver.api.client - INFO - https://192.168.106.199/predbox/groups/predict?strictInputValidation=false&qualityReportEnabled=true&contextMatchingReport=true
+2023-03-29 08:55:29,070 - sparkbeyond.predictionserver.api.client - INFO - Request completed successfully
+2023-03-29 08:55:29,070 - sparkbeyond.predictionserver.api.client - INFO - Request completed successfully
+2023-03-29 09:56:08,972 - sparkbeyond.predictionserver.api.client - INFO - Connection with https://192.168.106.199/ - Established
+2023-03-29 09:56:48,030 - sparkbeyond.predictionserver.api.client - INFO - Group NPHR_Unit1_03272023_rev_1_bucket_LB1_5_6.25 uploaded successfully
+2023-03-29 09:57:25,277 - sparkbeyond.predictionserver.api.client - INFO - Group NPHR_Unit1_03272023_rev_2_bucket_LB2_6.25_7.5 uploaded successfully
+2023-03-29 09:58:00,204 - sparkbeyond.predictionserver.api.client - INFO - Group NPHR_Unit1_03272023_rev_3_bucket_LB3_7.5_8.75 uploaded successfully
+2023-03-29 09:58:38,297 - sparkbeyond.predictionserver.api.client - INFO - Group NPHR_Unit1_03272023_rev_4_bucket_LB4_8.75_10 uploaded successfully
+2023-03-29 09:59:25,458 - sparkbeyond.predictionserver.api.client - INFO - Group NPHR_Unit1_03272023_rev_5_bucket_LB5_10_12.5 uploaded successfully
+2023-03-29 10:00:03,077 - sparkbeyond.predictionserver.api.client - INFO - Group NPHR_Unit1_03272023_rev_6_bucket_LB6_12.5_15 uploaded successfully
+2023-03-29 10:00:51,759 - sparkbeyond.predictionserver.api.client - INFO - Connection with https://192.168.106.199/ - Established
+2023-03-29 10:00:51,759 - sparkbeyond.predictionserver.api.client - INFO - Connection with https://192.168.106.199/ - Established
+2023-03-29 10:00:51,759 - sparkbeyond.predictionserver.api.client - INFO - Connection with https://192.168.106.199/ - Established
+2023-03-29 10:01:58,565 - sparkbeyond.predictionserver.api.client - INFO - Connection with https://192.168.106.199/ - Established
+2023-03-29 10:03:12,997 - sparkbeyond.predictionserver.api.client - INFO - Sending Predict to https://192.168.106.199/
+2023-03-29 10:03:12,998 - sparkbeyond.predictionserver.api.client - INFO - https://192.168.106.199/predbox/groups/predict?strictInputValidation=false&qualityReportEnabled=true&contextMatchingReport=true
+2023-03-29 10:03:26,242 - sparkbeyond.predictionserver.api.client - INFO - Request completed successfully
+2023-03-29 10:03:35,308 - sparkbeyond.predictionserver.api.client - INFO - Sending Predict to https://192.168.106.199/
+2023-03-29 10:03:35,309 - sparkbeyond.predictionserver.api.client - INFO - https://192.168.106.199/predbox/groups/predict?strictInputValidation=false&qualityReportEnabled=true&contextMatchingReport=true
+2023-03-29 10:04:45,270 - sparkbeyond.predictionserver.api.client - INFO - Request completed successfully
+2023-03-29 10:32:12,146 - sparkbeyond.predictionserver.api.client - INFO - Group NPHR_Unit1_nphr_03272023_rev_7_bucket_LB2_6.25_7.5 deleted successfully
+2023-03-29 10:32:12,264 - sparkbeyond.predictionserver.api.client - INFO - Group NPHR_Unit1_nphr_03272023_rev_7_bucket_LB3_7.5_8.75 deleted successfully
+2023-03-29 10:32:12,414 - sparkbeyond.predictionserver.api.client - INFO - Group NPHR_Unit1_nphr_03272023_rev_7_bucket_LB4_8.75_10 deleted successfully
+2023-03-29 10:32:12,537 - sparkbeyond.predictionserver.api.client - INFO - Group NPHR_Unit1_nphr_03272023_rev_7_bucket_LB5_10_12.5 deleted successfully
+2023-03-29 10:32:12,661 - sparkbeyond.predictionserver.api.client - INFO - Group NPHR_Unit1_nphr_03272023_rev_7_bucket_LB1_5_6.25 deleted successfully
+2023-03-29 10:32:12,779 - sparkbeyond.predictionserver.api.client - INFO - Group NPHR_Unit1_03272023_rev_1_bucket_LB1_5_6.25 deleted successfully
+2023-03-29 10:32:12,906 - sparkbeyond.predictionserver.api.client - INFO - Group NPHR_Unit1_03272023_rev_2_bucket_LB2_6.25_7.5 deleted successfully
+2023-03-29 10:32:13,022 - sparkbeyond.predictionserver.api.client - INFO - Group NPHR_Unit1_03272023_rev_3_bucket_LB3_7.5_8.75 deleted successfully
+2023-03-29 10:32:13,143 - sparkbeyond.predictionserver.api.client - INFO - Group NPHR_Unit1_03272023_rev_4_bucket_LB4_8.75_10 deleted successfully
+2023-03-29 10:32:13,264 - sparkbeyond.predictionserver.api.client - INFO - Group NPHR_Unit1_03272023_rev_5_bucket_LB5_10_12.5 deleted successfully
+2023-03-29 10:32:13,635 - sparkbeyond.predictionserver.api.client - INFO - Group NPHR_Unit1_03272023_rev_6_bucket_LB6_12.5_15 deleted successfully
+2023-03-29 10:32:44,372 - sparkbeyond.predictionserver.api.client - INFO - Connection with https://192.168.106.199/ - Established
+2023-03-29 10:33:01,664 - sparkbeyond.predictionserver.api.errors - ERROR - Model: NPHR_Unit1_03272023_rev_1_bucket_LB1_5_6.25 not found
+2023-03-29 10:33:01,664 - sparkbeyond.predictionserver.api.client - INFO - Group NPHR_Unit1_03272023_rev_1_bucket_LB1_5_6.25 is not on server, uploading...
+2023-03-29 10:33:23,084 - sparkbeyond.predictionserver.api.client - INFO - Group NPHR_Unit1_03272023_rev_1_bucket_LB1_5_6.25 uploaded successfully
+2023-03-29 10:33:23,158 - sparkbeyond.predictionserver.api.errors - ERROR - Model: NPHR_Unit1_03272023_rev_2_bucket_LB2_6.25_7.5 not found
+2023-03-29 10:33:23,158 - sparkbeyond.predictionserver.api.errors - ERROR - Model: NPHR_Unit1_03272023_rev_2_bucket_LB2_6.25_7.5 not found
+2023-03-29 10:33:23,158 - sparkbeyond.predictionserver.api.client - INFO - Group NPHR_Unit1_03272023_rev_2_bucket_LB2_6.25_7.5 is not on server, uploading...
+2023-03-29 10:33:59,865 - sparkbeyond.predictionserver.api.client - INFO - Group NPHR_Unit1_03272023_rev_2_bucket_LB2_6.25_7.5 uploaded successfully
+2023-03-29 10:33:59,948 - sparkbeyond.predictionserver.api.errors - ERROR - Model: NPHR_Unit1_03272023_rev_3_bucket_LB3_7.5_8.75 not found
+2023-03-29 10:33:59,948 - sparkbeyond.predictionserver.api.errors - ERROR - Model: NPHR_Unit1_03272023_rev_3_bucket_LB3_7.5_8.75 not found
+2023-03-29 10:33:59,948 - sparkbeyond.predictionserver.api.errors - ERROR - Model: NPHR_Unit1_03272023_rev_3_bucket_LB3_7.5_8.75 not found
+2023-03-29 10:33:59,948 - sparkbeyond.predictionserver.api.client - INFO - Group NPHR_Unit1_03272023_rev_3_bucket_LB3_7.5_8.75 is not on server, uploading...
+2023-03-29 10:34:34,302 - sparkbeyond.predictionserver.api.client - INFO - Group NPHR_Unit1_03272023_rev_3_bucket_LB3_7.5_8.75 uploaded successfully
+2023-03-29 10:34:34,406 - sparkbeyond.predictionserver.api.errors - ERROR - Model: NPHR_Unit1_03272023_rev_4_bucket_LB4_8.75_10 not found
+2023-03-29 10:34:34,406 - sparkbeyond.predictionserver.api.errors - ERROR - Model: NPHR_Unit1_03272023_rev_4_bucket_LB4_8.75_10 not found
+2023-03-29 10:34:34,406 - sparkbeyond.predictionserver.api.errors - ERROR - Model: NPHR_Unit1_03272023_rev_4_bucket_LB4_8.75_10 not found
+2023-03-29 10:34:34,406 - sparkbeyond.predictionserver.api.errors - ERROR - Model: NPHR_Unit1_03272023_rev_4_bucket_LB4_8.75_10 not found
+2023-03-29 10:34:34,406 - sparkbeyond.predictionserver.api.client - INFO - Group NPHR_Unit1_03272023_rev_4_bucket_LB4_8.75_10 is not on server, uploading...
+2023-03-29 10:35:11,544 - sparkbeyond.predictionserver.api.client - INFO - Group NPHR_Unit1_03272023_rev_4_bucket_LB4_8.75_10 uploaded successfully
+2023-03-29 10:35:11,643 - sparkbeyond.predictionserver.api.errors - ERROR - Model: NPHR_Unit1_03272023_rev_5_bucket_LB5_10_12.5 not found
+2023-03-29 10:35:11,643 - sparkbeyond.predictionserver.api.errors - ERROR - Model: NPHR_Unit1_03272023_rev_5_bucket_LB5_10_12.5 not found
+2023-03-29 10:35:11,643 - sparkbeyond.predictionserver.api.errors - ERROR - Model: NPHR_Unit1_03272023_rev_5_bucket_LB5_10_12.5 not found
+2023-03-29 10:35:11,643 - sparkbeyond.predictionserver.api.errors - ERROR - Model: NPHR_Unit1_03272023_rev_5_bucket_LB5_10_12.5 not found
+2023-03-29 10:35:11,643 - sparkbeyond.predictionserver.api.errors - ERROR - Model: NPHR_Unit1_03272023_rev_5_bucket_LB5_10_12.5 not found
+2023-03-29 10:35:11,643 - sparkbeyond.predictionserver.api.client - INFO - Group NPHR_Unit1_03272023_rev_5_bucket_LB5_10_12.5 is not on server, uploading...
+2023-03-29 10:35:56,785 - sparkbeyond.predictionserver.api.client - INFO - Group NPHR_Unit1_03272023_rev_5_bucket_LB5_10_12.5 uploaded successfully
+2023-03-29 10:35:56,873 - sparkbeyond.predictionserver.api.errors - ERROR - Model: NPHR_Unit1_03272023_rev_6_bucket_LB6_12.5_15 not found
+2023-03-29 10:35:56,873 - sparkbeyond.predictionserver.api.errors - ERROR - Model: NPHR_Unit1_03272023_rev_6_bucket_LB6_12.5_15 not found
+2023-03-29 10:35:56,873 - sparkbeyond.predictionserver.api.errors - ERROR - Model: NPHR_Unit1_03272023_rev_6_bucket_LB6_12.5_15 not found
+2023-03-29 10:35:56,873 - sparkbeyond.predictionserver.api.errors - ERROR - Model: NPHR_Unit1_03272023_rev_6_bucket_LB6_12.5_15 not found
+2023-03-29 10:35:56,873 - sparkbeyond.predictionserver.api.errors - ERROR - Model: NPHR_Unit1_03272023_rev_6_bucket_LB6_12.5_15 not found
+2023-03-29 10:35:56,873 - sparkbeyond.predictionserver.api.errors - ERROR - Model: NPHR_Unit1_03272023_rev_6_bucket_LB6_12.5_15 not found
+2023-03-29 10:35:56,873 - sparkbeyond.predictionserver.api.client - INFO - Group NPHR_Unit1_03272023_rev_6_bucket_LB6_12.5_15 is not on server, uploading...
+2023-03-29 10:36:33,645 - sparkbeyond.predictionserver.api.client - INFO - Group NPHR_Unit1_03272023_rev_6_bucket_LB6_12.5_15 uploaded successfully
